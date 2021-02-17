@@ -1,0 +1,16 @@
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.exe
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.deps.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.runtimeconfig.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.runtimeconfig.dev.json
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\ref\Primer Parcial.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\bin\Debug\net5.0\Primer Parcial.pdb
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.csprojAssemblyReference.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.AssemblyInfoInputs.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.AssemblyInfo.cs
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.csproj.CoreCompileInputs.cache
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\ref\Primer Parcial.dll
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.pdb
+C:\Users\D20A4590\Desktop\Imanol\Fundamento de Programacion\Primer Parcial\obj\Debug\net5.0\Primer Parcial.genruntimeconfig.cache
